@@ -4,7 +4,7 @@ Functions has been implement as a methods in class Tree
 
 # nodesWithoutChildren()
 * I modified BFS algorithm, it visits all nodes in tree and checks if the node has no children.
-* Algorithm works in linear time.![ss1]
+* Algorithm works in linear time.
 
 ![ss1](https://user-images.githubusercontent.com/69002597/230723743-9eae34c2-50b8-4b5d-b8f0-edf88092d2ab.PNG)
 
